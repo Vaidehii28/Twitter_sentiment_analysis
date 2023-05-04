@@ -19,6 +19,8 @@ The dataset used in this study consisted of 48,000 tweets that were collected be
 In conclusion, our study demonstrated the effectiveness of BERT and roBERTa models for sentiment analysis of coronavirus-related tweets. The roBERTa model outperformed the BERT model in terms of accuracy, precision, recall, and F1 score. The results suggest that the use of state-of-the-art language models can significantly improve the accuracy and effectiveness of sentiment analysis on Twitter data. These findings can be used to inform public health policies and interventions related to the ongoing pandemic.
 <br>
 <img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/result.jpg">
-<h3> I hope you find it useful and informative. If you have any suggestions or feedback, please feel free to create an issue or pull request. Your contributions are always welcome. </h3>
+<h3> I hope you find it useful and informative. 
+ <br>
+ If you have any suggestions or feedback, please feel free to create an issue or pull request. Your contributions are always welcome. </h3>
 <br>
 <img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/thankyou.jpg">
