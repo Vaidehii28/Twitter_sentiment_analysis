@@ -20,4 +20,5 @@ In conclusion, our study demonstrated the effectiveness of BERT and roBERTa mode
 <br><br>
 <img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/result.jpg">
 <br><br>
+<h1> I hope you find it useful and informative. If you have any suggestions or feedback, please feel free to create an issue or pull request. Your contributions are always welcome. </h1>
 <img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/thankyou.jpg">
