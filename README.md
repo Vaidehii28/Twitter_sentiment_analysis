@@ -10,6 +10,7 @@ Twitter has become a crucial platform for individuals to share their opinions an
 <img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/roberta.jpg">
 <br><br>
 <h1>DATASET:</h1>
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/data.jpg">
 The dataset used in this study consisted of 48,000 tweets that were collected between March 2020 and May 2021. The tweets were preprocessed by removing stopwords, usernames, and hashtags.
 <br>
 <h1>Sentiment Analysis Results:</h1>
